@@ -26,19 +26,9 @@ Loop para desenhar formas sobre a imagem do tabuleiro.
 Para ver o embasamento teórico e explicação detalhada do código basta ler o arquivo 'Relatório A3 - Visão Computacional.pdf'
 
 ## Results:
-**Placa**  
-![placagit1](https://user-images.githubusercontent.com/35512686/40154965-a1e3be34-5967-11e8-8e91-1cbf69175b18.png)  
- **Placa com Máscara**  
-![placagit2](https://user-images.githubusercontent.com/35512686/40154966-a20e5324-5967-11e8-9d52-14dfa4f0ed1c.png)  
- **Blobs Selecionados**    
- - Blobs Letras:  
-![placagit3](https://user-images.githubusercontent.com/35512686/40154968-a2390826-5967-11e8-987e-3676b8f1e2a4.png)  
- - Blobs Números:  
-![placagit4](https://user-images.githubusercontent.com/35512686/40154969-a2657122-5967-11e8-9d27-fd07f9cd9644.png)  
- - Blobs Estado:  
-![placagit5](https://user-images.githubusercontent.com/35512686/40155083-237f0476-5968-11e8-9cac-97faa0e40040.png)  
- - Blobs Cidade:  
-![placagit6](https://user-images.githubusercontent.com/35512686/40155084-23a9b392-5968-11e8-8f5b-f7a2d7a1a93f.png)  
+ **Formas Desenhadas sobre o Tabuleiro**      
+![fe1](https://user-images.githubusercontent.com/35512686/41882542-e131138a-78bf-11e8-82ab-eeb355721888.png)
+![ge2](https://user-images.githubusercontent.com/35512686/41882543-e15d6d36-78bf-11e8-9375-7ad1f55e57d7.png)
 ## Requirements:
 - Matlab R2016 ou mais recente
 - Machine Vision Toolbox - Peter Corke
